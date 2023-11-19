@@ -1,0 +1,6 @@
+Soooo this is a crappy snake game
+made in Python 3 and pygame.
+I stopped learning programming 
+2 years ago so i'm trying to 
+start again, Sorry if the code
+quality is trash (I't is!)
