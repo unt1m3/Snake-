@@ -1,7 +1,7 @@
-# Snake
-Snake!
+# Sneik!
+Sneik! 
+Using Raylib
+Rewritten - yet again
+Using the stack only and improved some stuff
+Still facing issues though
 
-Currently rewriting in C and Raylib.
-WARNING
-This code sucks, really sucks, is full bad practices
-that i stopped doing.
